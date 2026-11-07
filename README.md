@@ -1,5 +1,82 @@
-# 💫 About Me:
-👋 Hello, I'm Abhaya!<br><br>🚀 As a passionate React Native developer, I'm dedicated to crafting mobile applications that not only meet the needs of users but also deliver an exceptional user experience. I enjoy pushing the boundaries of what's possible in the world of mobile development.<br><br>💼 Currently, I'm employed at Equartis Technology Pvt Ltd, where I collaborate with an incredible team to create cutting-edge mobile solutions. It's a journey of continuous learning, problem-solving, and innovation.<br><br>🌟 I believe in the power of open-source software and enjoy contributing to the developer community whenever I can. Feel free to explore my repositories and projects to see what I've been up to.<br><br>📫 Let's connect and collaborate on exciting projects or simply chat about mobile development. Don't hesitate to reach out!<br><br>📌 Check out my latest work and code samples here on GitHub. Your feedback and insights are always appreciated. Happy coding! 🚀<br>
+# 👋 Hi, I'm Abhaya Kumar Sahoo
+
+### Full Stack Developer | React Native | React.js | Node.js | AI Enthusiast
+
+🚀 I'm a **Full Stack Developer with 5+ years of professional experience**, specializing in building scalable mobile applications, modern web platforms, and reliable backend systems.
+
+I enjoy transforming complex ideas into production-ready applications with clean architecture, optimized performance, and intuitive user experiences.
+
+Currently working at **Equartis Technology Pvt. Ltd.**, developing mobile and web solutions and exploring AI-powered applications.
+
+---
+
+### 💻 Tech Stack
+
+**📱 Mobile Development**
+- React Native (CLI & Expo)
+- JavaScript, TypeScript
+- Native Modules & Device Integrations
+- Redux Toolkit, Zustand
+- Push Notifications, Deep Linking
+
+**🌐 Frontend Development**
+- React.js, HTML5, CSS3
+- Tailwind CSS, Responsive Design
+- REST API Integration
+- Modern UI/UX Development
+
+**⚙️ Backend Development**
+- Node.js, NestJS, Express.js
+- RESTful APIs, WebSockets, Socket.io
+- JWT Authentication, Role-Based Access Control
+- Payment Gateway Integration
+
+**🗄️ Databases & Cloud**
+- MongoDB, PostgreSQL, Firebase
+- AWS (EC2, S3)
+- Docker, Nginx
+- GitHub Actions, CI/CD
+
+**🤖 AI & Emerging Technologies**
+- LLM Integration & AI-Powered Applications
+- Retrieval-Augmented Generation (RAG)
+- Ollama, OpenAI, Gemini APIs
+- Python, Speech-to-Text & Text-to-Speech
+
+---
+
+### 🚀 What I'm Working On
+
+- 📱 Building scalable cross-platform mobile applications
+- 🌐 Developing modern full-stack web applications
+- 🤖 Exploring AI agents, LLMs, and RAG-based systems
+- 🛠️ Creating reusable developer tools and open-source libraries
+- ☁️ Improving cloud deployment and automation workflows
+
+---
+
+### 📦 Open Source Contributions
+
+- **[react-native-quick-components](https://www.npmjs.com/package/react-native-quick-components)** — Reusable UI components for React Native applications.
+- **[react-native-voice-to-text](https://www.npmjs.com/package/react-native-voice-to-text)** — Voice-to-text integration for React Native.
+
+I believe in building tools that simplify development and help the developer community.
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 **LinkedIn:** [abhaya-kumar-saho](https://www.linkedin.com/in/abhaya-kumar-saho/)
+- 💻 **GitHub:** [abhaya-kumar-sahoo](https://github.com/abhaya-kumar-sahoo)
+- 📧 **Email:** [abhaya.kumar.saho@gmail.com](mailto:abhaya.kumar.saho@gmail.com)
+
+---
+
+### ⚡ Beyond Coding
+
+I'm passionate about exploring new technologies, experimenting with AI models, contributing to open source, and turning ideas into real-world products.
+
+**💡 "Build with purpose. Code with passion. Keep learning."**
 
 
 ## 🌐 Socials:
