@@ -6,42 +6,6 @@
 
 I enjoy transforming complex ideas into production-ready applications with clean architecture, optimized performance, and intuitive user experiences.
 
-Currently working at **Equartis Technology Pvt. Ltd.**, developing mobile and web solutions and exploring AI-powered applications.
-
----
-
-### 💻 Tech Stack
-
-**📱 Mobile Development**
-- React Native (CLI & Expo)
-- JavaScript, TypeScript
-- Native Modules & Device Integrations
-- Redux Toolkit, Zustand
-- Push Notifications, Deep Linking
-
-**🌐 Frontend Development**
-- React.js, HTML5, CSS3
-- Tailwind CSS, Responsive Design
-- REST API Integration
-- Modern UI/UX Development
-
-**⚙️ Backend Development**
-- Node.js, NestJS, Express.js
-- RESTful APIs, WebSockets, Socket.io
-- JWT Authentication, Role-Based Access Control
-- Payment Gateway Integration
-
-**🗄️ Databases & Cloud**
-- MongoDB, PostgreSQL, Firebase
-- AWS (EC2, S3)
-- Docker, Nginx
-- GitHub Actions, CI/CD
-
-**🤖 AI & Emerging Technologies**
-- LLM Integration & AI-Powered Applications
-- Retrieval-Augmented Generation (RAG)
-- Ollama, OpenAI, Gemini APIs
-- Python, Speech-to-Text & Text-to-Speech
 
 ---
 
@@ -52,15 +16,6 @@ Currently working at **Equartis Technology Pvt. Ltd.**, developing mobile and we
 - 🤖 Exploring AI agents, LLMs, and RAG-based systems
 - 🛠️ Creating reusable developer tools and open-source libraries
 - ☁️ Improving cloud deployment and automation workflows
-
----
-
-### 📦 Open Source Contributions
-
-- **[react-native-quick-components](https://www.npmjs.com/package/react-native-quick-components)** — Reusable UI components for React Native applications.
-- **[react-native-voice-to-text](https://www.npmjs.com/package/react-native-voice-to-text)** — Voice-to-text integration for React Native.
-
-I believe in building tools that simplify development and help the developer community.
 
 ---
 
